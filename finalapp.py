@@ -16,7 +16,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 ## load the Nvidia Api Key
-NVIDIA_API_KEY = "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"
+NVIDIA_API_KEY = "your-nvidia-api-key"
 
 def vector_embedding():
 
