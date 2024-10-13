@@ -1,7 +1,7 @@
 # NVIDIA NIM Demo with LangChain and FAISS
 ## Live Website
 [https://finalapp-vivek.streamlit.app/](https://finalapp-vivek.streamlit.app/)
-![Image Description](https://example.com/image.jpg)
+- ![image.png](https://github.com/VivekSuryavanshi03/NVIDIA-NIM/blob/adc5083dcd579f679b62d688fa5f6b64032d1fb5/Visuals/image.png)
 
 This project demonstrates the integration of NVIDIA AI Endpoints, LangChain, and FAISS to build a document retrieval system. The app ingests a PDF file (in this case, the 2013-2014 budget for India) and allows users to ask questions based on the contents of the PDF. The app then retrieves relevant chunks from the document and provides an answer using NVIDIA’s language model.
 
