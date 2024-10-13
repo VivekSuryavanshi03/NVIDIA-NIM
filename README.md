@@ -25,14 +25,14 @@ Make sure you have the following installed on your machine:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/nvidia-nim-demo.git
+    https://github.com/VivekSuryavanshi03/NVIDIA-NIM.git
     cd nvidia-nim-demo
     ```
 
 2. **Set up the environment**:
     Create a `.env` file in the root of the project and add your NVIDIA API key:
     ```bash
-    NVIDIA_API_KEY=your-nvidia-api-key
+    NVIDIA_API_KEY="your-nvidia-api-key"
     ```
 
 3. **Install dependencies**:
